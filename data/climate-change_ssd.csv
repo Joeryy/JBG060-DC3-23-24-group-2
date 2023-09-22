@@ -1,0 +1,756 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+South Sudan,SSD,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,282510
+South Sudan,SSD,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,282510
+South Sudan,SSD,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,282510
+South Sudan,SSD,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,283214.75
+South Sudan,SSD,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,283567.625
+South Sudan,SSD,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,283920.5
+South Sudan,SSD,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,284273.375
+South Sudan,SSD,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,284626.25
+South Sudan,SSD,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,284979.125
+South Sudan,SSD,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.7059009700441
+South Sudan,SSD,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.7059009700441
+South Sudan,SSD,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.7059009700441
+South Sudan,SSD,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.817424398272
+South Sudan,SSD,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.8732652350735
+South Sudan,SSD,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.929106071875
+South Sudan,SSD,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.9849469086766
+South Sudan,SSD,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,45.0407877454781
+South Sudan,SSD,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,45.0966285822797
+South Sudan,SSD,2020,Arable land (% of land area),AG.LND.ARBL.ZS,3.789502001804
+South Sudan,SSD,2019,Arable land (% of land area),AG.LND.ARBL.ZS,3.789502001804
+South Sudan,SSD,2018,Arable land (% of land area),AG.LND.ARBL.ZS,3.79266690930958
+South Sudan,SSD,2017,Arable land (% of land area),AG.LND.ARBL.ZS,3.90434858291266
+South Sudan,SSD,2016,Arable land (% of land area),AG.LND.ARBL.ZS,3.96018941971421
+South Sudan,SSD,2015,Arable land (% of land area),AG.LND.ARBL.ZS,4.01603025651575
+South Sudan,SSD,2014,Arable land (% of land area),AG.LND.ARBL.ZS,4.07503600082288
+South Sudan,SSD,2013,Arable land (% of land area),AG.LND.ARBL.ZS,4.14037156014115
+South Sudan,SSD,2012,Arable land (% of land area),AG.LND.ARBL.ZS,4.20728957321222
+South Sudan,SSD,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,0
+South Sudan,SSD,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,0
+South Sudan,SSD,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,0
+South Sudan,SSD,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0
+South Sudan,SSD,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0
+South Sudan,SSD,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0
+South Sudan,SSD,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+South Sudan,SSD,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+South Sudan,SSD,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+South Sudan,SSD,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+South Sudan,SSD,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+South Sudan,SSD,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+South Sudan,SSD,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0
+South Sudan,SSD,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0
+South Sudan,SSD,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0
+South Sudan,SSD,2020,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2019,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2018,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2017,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2016,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2015,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2014,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2013,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2012,Forest area (sq. km),AG.LND.FRST.K2,71570
+South Sudan,SSD,2020,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2019,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2018,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2017,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2016,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2015,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2014,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2013,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2012,Forest area (% of land area),AG.LND.FRST.ZS,11.3256215087114
+South Sudan,SSD,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+South Sudan,SSD,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,844.6
+South Sudan,SSD,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,885.5
+South Sudan,SSD,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,880.5
+South Sudan,SSD,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,843.7
+South Sudan,SSD,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,885.2
+South Sudan,SSD,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,879.1
+South Sudan,SSD,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,907.3
+South Sudan,SSD,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1253.7
+South Sudan,SSD,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,765.6
+South Sudan,SSD,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,705.2
+South Sudan,SSD,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0012502291294692
+South Sudan,SSD,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00741877910985015
+South Sudan,SSD,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-4.30359174766787
+South Sudan,SSD,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.34937246395858
+South Sudan,SSD,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,7.74776268005371
+South Sudan,SSD,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,7.2609338760376
+South Sudan,SSD,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.77396583557129
+South Sudan,SSD,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.28616857528687
+South Sudan,SSD,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.2
+South Sudan,SSD,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,5.3047661781311
+South Sudan,SSD,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.80950117111206
+South Sudan,SSD,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.31008577346802
+South Sudan,SSD,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.80569219589233
+South Sudan,SSD,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.29626798629761
+South Sudan,SSD,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,2.78487372398377
+South Sudan,SSD,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,1.5
+South Sudan,SSD,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,3
+South Sudan,SSD,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,1.27726471424103
+South Sudan,SSD,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,0.796382963657379
+South Sudan,SSD,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.22
+South Sudan,SSD,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.56
+South Sudan,SSD,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.55
+South Sudan,SSD,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.13
+South Sudan,SSD,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.67
+South Sudan,SSD,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.49
+South Sudan,SSD,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.26
+South Sudan,SSD,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.13
+South Sudan,SSD,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.56
+South Sudan,SSD,2014,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.18499011756104
+South Sudan,SSD,2013,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.14132762312634
+South Sudan,SSD,2012,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.20519836691084
+South Sudan,SSD,2016,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+South Sudan,SSD,2015,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+South Sudan,SSD,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+South Sudan,SSD,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+South Sudan,SSD,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+South Sudan,SSD,2016,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+South Sudan,SSD,2015,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+South Sudan,SSD,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+South Sudan,SSD,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+South Sudan,SSD,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+South Sudan,SSD,2015,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.164146749838443
+South Sudan,SSD,2014,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.112986042877165
+South Sudan,SSD,2013,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.111686546204519
+South Sudan,SSD,2012,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.123350827913916
+South Sudan,SSD,2011,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.060067007688043
+South Sudan,SSD,2010,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0587120420026262
+South Sudan,SSD,2009,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0608724311791487
+South Sudan,SSD,2008,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0613867683345494
+South Sudan,SSD,2020,CO2 emissions (kt),EN.ATM.CO2E.KT,1742.7
+South Sudan,SSD,2019,CO2 emissions (kt),EN.ATM.CO2E.KT,1824.6
+South Sudan,SSD,2018,CO2 emissions (kt),EN.ATM.CO2E.KT,1768.9
+South Sudan,SSD,2017,CO2 emissions (kt),EN.ATM.CO2E.KT,1512.1
+South Sudan,SSD,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,1730.2
+South Sudan,SSD,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,1969.4
+South Sudan,SSD,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,1519.6
+South Sudan,SSD,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,1453.1
+South Sudan,SSD,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,1418.6
+South Sudan,SSD,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,1281.212289
+South Sudan,SSD,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,1313.250224
+South Sudan,SSD,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,1290.671108
+South Sudan,SSD,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,1239.105288
+South Sudan,SSD,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,1173.198679
+South Sudan,SSD,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,998.668212
+South Sudan,SSD,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,912.013225
+South Sudan,SSD,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,951.984363
+South Sudan,SSD,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,753.349164
+South Sudan,SSD,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,674.322257
+South Sudan,SSD,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,529.083617
+South Sudan,SSD,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,459.820652
+South Sudan,SSD,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,422.900746
+South Sudan,SSD,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,389.947441
+South Sudan,SSD,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,449.751587
+South Sudan,SSD,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,367.368325
+South Sudan,SSD,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,356.078767
+South Sudan,SSD,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,344.484085
+South Sudan,SSD,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,250.506142
+South Sudan,SSD,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,363.401723
+South Sudan,SSD,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,406.424094
+South Sudan,SSD,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,433.885181
+South Sudan,SSD,2016,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1727.157
+South Sudan,SSD,2015,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1943.51
+South Sudan,SSD,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1536.473
+South Sudan,SSD,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1448.465
+South Sudan,SSD,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1331.121
+South Sudan,SSD,2016,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,99.8356647398844
+South Sudan,SSD,2015,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,98.6553299492386
+South Sudan,SSD,2014,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100.423071895425
+South Sudan,SSD,2013,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,99.8941379310345
+South Sudan,SSD,2012,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,93.7409154929578
+South Sudan,SSD,2020,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.16430913651009
+South Sudan,SSD,2019,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.174641876951273
+South Sudan,SSD,2018,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.170162964539169
+South Sudan,SSD,2017,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.141871639801971
+South Sudan,SSD,2016,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.156351308793835
+South Sudan,SSD,2015,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.175928836633719
+South Sudan,SSD,2014,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.13551783759334
+South Sudan,SSD,2013,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.130838820817266
+South Sudan,SSD,2012,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.132559567705925
+South Sudan,SSD,2011,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.125081131987055
+South Sudan,SSD,2010,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.135185668231934
+South Sudan,SSD,2009,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.139846068148503
+South Sudan,SSD,2008,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.140426225718187
+South Sudan,SSD,2007,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.139370794444122
+South Sudan,SSD,2006,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.124374630753008
+South Sudan,SSD,2005,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.119020541055358
+South Sudan,SSD,2004,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.130103732507799
+South Sudan,SSD,2003,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.107738790598377
+South Sudan,SSD,2002,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.100854348125215
+South Sudan,SSD,2001,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0827413130269136
+South Sudan,SSD,2000,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0752024146119677
+South Sudan,SSD,1999,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0722889340349684
+South Sudan,SSD,1998,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0684186015949648
+South Sudan,SSD,1997,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0804649483576979
+South Sudan,SSD,1996,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0675943863854566
+South Sudan,SSD,1995,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0671587978744793
+South Sudan,SSD,1994,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0669829402416514
+South Sudan,SSD,1993,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0499197998793186
+South Sudan,SSD,1992,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0733112761044098
+South Sudan,SSD,1991,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0835029065055058
+South Sudan,SSD,1990,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0913285401226778
+South Sudan,SSD,2015,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.148848576547941
+South Sudan,SSD,2014,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0962690425442645
+South Sudan,SSD,2013,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0668471195390139
+South Sudan,SSD,2012,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0923323014415736
+South Sudan,SSD,2011,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.045817178421646
+South Sudan,SSD,2010,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0457141304202211
+South Sudan,SSD,2009,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0479658479088565
+South Sudan,SSD,2008,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0486811688915557
+South Sudan,SSD,2016,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+South Sudan,SSD,2015,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+South Sudan,SSD,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+South Sudan,SSD,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+South Sudan,SSD,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+South Sudan,SSD,2016,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+South Sudan,SSD,2015,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+South Sudan,SSD,2014,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+South Sudan,SSD,2013,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+South Sudan,SSD,2012,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+South Sudan,SSD,2020,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,56051.36036
+South Sudan,SSD,2019,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49180.5281
+South Sudan,SSD,2018,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,56397.91983
+South Sudan,SSD,2017,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51336.68517
+South Sudan,SSD,2016,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53345.2521
+South Sudan,SSD,2015,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52511.74593
+South Sudan,SSD,2014,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51607.61045
+South Sudan,SSD,2013,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,50173.11067
+South Sudan,SSD,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,50364.00829
+South Sudan,SSD,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,65005.48492
+South Sudan,SSD,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,68561.58247
+South Sudan,SSD,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69258.66386
+South Sudan,SSD,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,67108.45694
+South Sudan,SSD,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,66079.61528
+South Sudan,SSD,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,62355.185
+South Sudan,SSD,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,62994.05954
+South Sudan,SSD,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,59841.76517
+South Sudan,SSD,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,57389.95213
+South Sudan,SSD,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54718.08042
+South Sudan,SSD,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,50861.92555
+South Sudan,SSD,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52686.44656
+South Sudan,SSD,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48537.75892
+South Sudan,SSD,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,45748.30549
+South Sudan,SSD,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,41981.25047
+South Sudan,SSD,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,38939.52993
+South Sudan,SSD,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,35486.21776
+South Sudan,SSD,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,34796.79977
+South Sudan,SSD,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,32828.04682
+South Sudan,SSD,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30939.92607
+South Sudan,SSD,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28552.00862
+South Sudan,SSD,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27694.53952
+South Sudan,SSD,2020,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,32385.92039
+South Sudan,SSD,2019,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,29005.56131
+South Sudan,SSD,2018,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,32177.18723
+South Sudan,SSD,2017,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,29480.72815
+South Sudan,SSD,2016,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,30243.16407
+South Sudan,SSD,2015,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,29757.79749
+South Sudan,SSD,2014,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,29533.97599
+South Sudan,SSD,2013,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,28470.012
+South Sudan,SSD,2012,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,28106.49301
+South Sudan,SSD,2011,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,44539.20839
+South Sudan,SSD,2010,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,48081.18
+South Sudan,SSD,2009,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,47635.7461
+South Sudan,SSD,2008,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,45977.5037
+South Sudan,SSD,2007,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,44747.62893
+South Sudan,SSD,2006,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,42446.37326
+South Sudan,SSD,2005,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,41921.65284
+South Sudan,SSD,2004,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,39568.76314
+South Sudan,SSD,2003,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,37582.91057
+South Sudan,SSD,2002,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,35384.82887
+South Sudan,SSD,2001,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,32806.60489
+South Sudan,SSD,2000,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,32632.4888
+South Sudan,SSD,1999,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,29681.03311
+South Sudan,SSD,1998,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,27261.69609
+South Sudan,SSD,1997,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,24410.38402
+South Sudan,SSD,1996,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,21967.56584
+South Sudan,SSD,1995,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19434.07596
+South Sudan,SSD,1994,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,18983.61997
+South Sudan,SSD,1993,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,17958.93477
+South Sudan,SSD,1992,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,16744.07732
+South Sudan,SSD,1991,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,15356.20202
+South Sudan,SSD,1990,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,14879.67823
+South Sudan,SSD,2020,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,21818.26039
+South Sudan,SSD,2019,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,18251.21843
+South Sudan,SSD,2018,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,22358.01547
+South Sudan,SSD,2017,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20255.3711
+South Sudan,SSD,2016,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,21288.73334
+South Sudan,SSD,2015,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20706.72498
+South Sudan,SSD,2014,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20478.09079
+South Sudan,SSD,2013,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20175.9348
+South Sudan,SSD,2012,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20766.73121
+South Sudan,SSD,2011,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,19114.75998
+South Sudan,SSD,2010,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,19098.72779
+South Sudan,SSD,2009,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20271.28234
+South Sudan,SSD,2008,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,19838.34378
+South Sudan,SSD,2007,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20112.74363
+South Sudan,SSD,2006,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,18871.55963
+South Sudan,SSD,2005,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,20129.26974
+South Sudan,SSD,2004,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,19293.62871
+South Sudan,SSD,2003,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,19030.03823
+South Sudan,SSD,2002,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,18639.00992
+South Sudan,SSD,2001,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,17510.05246
+South Sudan,SSD,2000,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,19581.68731
+South Sudan,SSD,1999,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,18421.9551
+South Sudan,SSD,1998,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,18085.37184
+South Sudan,SSD,1997,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,17110.40458
+South Sudan,SSD,1996,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,16594.46532
+South Sudan,SSD,1995,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15686.51244
+South Sudan,SSD,1994,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15461.05523
+South Sudan,SSD,1993,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14612.87555
+South Sudan,SSD,1992,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,13828.62678
+South Sudan,SSD,1991,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,12787.47238
+South Sudan,SSD,1990,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,12380.97611
+South Sudan,SSD,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0
+South Sudan,SSD,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0
+South Sudan,SSD,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0
+South Sudan,SSD,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+South Sudan,SSD,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+South Sudan,SSD,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+South Sudan,SSD,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0
+South Sudan,SSD,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0
+South Sudan,SSD,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0
+South Sudan,SSD,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.658
+South Sudan,SSD,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.53076923076923
+South Sudan,SSD,2022,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.5015011
+South Sudan,SSD,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.50150108
+South Sudan,SSD,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.5015
+South Sudan,SSD,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.5015
+South Sudan,SSD,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.5015012515745
+South Sudan,SSD,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.5015012515745
+South Sudan,SSD,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.5
+South Sudan,SSD,2022,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.5015012638986
+South Sudan,SSD,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.501501261452
+South Sudan,SSD,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.501501261452
+South Sudan,SSD,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.501501261452
+South Sudan,SSD,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.5015012515745
+South Sudan,SSD,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.5015012515745
+South Sudan,SSD,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,15.5015818826495
+South Sudan,SSD,2019,Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ,185
+South Sudan,SSD,2022,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.4
+South Sudan,SSD,2021,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.4
+South Sudan,SSD,2020,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.4
+South Sudan,SSD,2019,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.4
+South Sudan,SSD,2018,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.4
+South Sudan,SSD,2017,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.4
+South Sudan,SSD,2016,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.5
+South Sudan,SSD,2015,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.7
+South Sudan,SSD,2014,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.9
+South Sudan,SSD,2013,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2
+South Sudan,SSD,2012,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2
+South Sudan,SSD,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.3550274477245
+South Sudan,SSD,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.59650844428456
+South Sudan,SSD,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.635809346303
+South Sudan,SSD,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.17613217428162
+South Sudan,SSD,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.67693681681883
+South Sudan,SSD,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.29379348275505
+South Sudan,SSD,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.22004160956288
+South Sudan,SSD,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.19544282441311
+South Sudan,SSD,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.685389995574951
+South Sudan,SSD,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.647140026092529
+South Sudan,SSD,2015,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,21.4734363555908
+South Sudan,SSD,2011,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,27.4370899200439
+South Sudan,SSD,2021,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,98.7
+South Sudan,SSD,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,99.2
+South Sudan,SSD,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,101
+South Sudan,SSD,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,104.5
+South Sudan,SSD,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,109.1
+South Sudan,SSD,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,114.7
+South Sudan,SSD,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,120.4
+South Sudan,SSD,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,126.7
+South Sudan,SSD,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,133.2
+South Sudan,SSD,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,140.1
+South Sudan,SSD,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,147.5
+South Sudan,SSD,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,155.5
+South Sudan,SSD,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,164
+South Sudan,SSD,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,172.7
+South Sudan,SSD,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,181.6
+South Sudan,SSD,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,190.4
+South Sudan,SSD,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,199
+South Sudan,SSD,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,207.4
+South Sudan,SSD,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,215
+South Sudan,SSD,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,222.1
+South Sudan,SSD,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,229
+South Sudan,SSD,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,235.4
+South Sudan,SSD,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,241.3
+South Sudan,SSD,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,246.4
+South Sudan,SSD,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,251.2
+South Sudan,SSD,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,255.8
+South Sudan,SSD,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,260.3
+South Sudan,SSD,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,264.6
+South Sudan,SSD,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,268.3
+South Sudan,SSD,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,272.3
+South Sudan,SSD,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,275.7
+South Sudan,SSD,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,279.1
+South Sudan,SSD,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,282.8
+South Sudan,SSD,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,285.8
+South Sudan,SSD,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,289.1
+South Sudan,SSD,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,292.2
+South Sudan,SSD,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,295.2
+South Sudan,SSD,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,299
+South Sudan,SSD,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,302.3
+South Sudan,SSD,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,306.1
+South Sudan,SSD,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,309.6
+South Sudan,SSD,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,313.6
+South Sudan,SSD,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,316.8
+South Sudan,SSD,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,320.6
+South Sudan,SSD,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,323.5
+South Sudan,SSD,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,326.3
+South Sudan,SSD,1968,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,329.3
+South Sudan,SSD,1967,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,332.5
+South Sudan,SSD,1966,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,335.4
+South Sudan,SSD,1965,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,338.1
+South Sudan,SSD,1964,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,340.8
+South Sudan,SSD,1963,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,344
+South Sudan,SSD,1962,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,347.1
+South Sudan,SSD,1961,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,350.4
+South Sudan,SSD,1960,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,353.1
+South Sudan,SSD,2010,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,27.7
+South Sudan,SSD,2006,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,32.5
+South Sudan,SSD,2016,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,67.3
+South Sudan,SSD,2009,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,34.5
+South Sudan,SSD,2022,Population growth (annual %),SP.POP.GROW,1.52247694994588
+South Sudan,SSD,2021,Population growth (annual %),SP.POP.GROW,1.33037160015506
+South Sudan,SSD,2020,Population growth (annual %),SP.POP.GROW,1.50626772829854
+South Sudan,SSD,2019,Population growth (annual %),SP.POP.GROW,0.502203354157719
+South Sudan,SSD,2018,Population growth (annual %),SP.POP.GROW,-2.49754177378349
+South Sudan,SSD,2017,Population growth (annual %),SP.POP.GROW,-3.75548445756917
+South Sudan,SSD,2016,Population growth (annual %),SP.POP.GROW,-1.15177978960304
+South Sudan,SSD,2015,Population growth (annual %),SP.POP.GROW,-0.169451605224622
+South Sudan,SSD,2014,Population growth (annual %),SP.POP.GROW,0.961085280307357
+South Sudan,SSD,2013,Population growth (annual %),SP.POP.GROW,3.70946573244568
+South Sudan,SSD,2012,Population growth (annual %),SP.POP.GROW,4.37942099501625
+South Sudan,SSD,2011,Population growth (annual %),SP.POP.GROW,5.29881502099888
+South Sudan,SSD,2010,Population growth (annual %),SP.POP.GROW,5.12359802529756
+South Sudan,SSD,2009,Population growth (annual %),SP.POP.GROW,4.49127071476695
+South Sudan,SSD,2008,Population growth (annual %),SP.POP.GROW,4.71113454589955
+South Sudan,SSD,2007,Population growth (annual %),SP.POP.GROW,4.72268670452429
+South Sudan,SSD,2006,Population growth (annual %),SP.POP.GROW,4.67659777703664
+South Sudan,SSD,2005,Population growth (annual %),SP.POP.GROW,4.61418643398604
+South Sudan,SSD,2004,Population growth (annual %),SP.POP.GROW,4.53974090656815
+South Sudan,SSD,2003,Population growth (annual %),SP.POP.GROW,4.47883810222676
+South Sudan,SSD,2002,Population growth (annual %),SP.POP.GROW,4.4603289201929
+South Sudan,SSD,2001,Population growth (annual %),SP.POP.GROW,4.47742684509793
+South Sudan,SSD,2000,Population growth (annual %),SP.POP.GROW,4.4186739597559
+South Sudan,SSD,1999,Population growth (annual %),SP.POP.GROW,2.6099224684906
+South Sudan,SSD,1998,Population growth (annual %),SP.POP.GROW,1.9493486596966
+South Sudan,SSD,1997,Population growth (annual %),SP.POP.GROW,2.80337188163924
+South Sudan,SSD,1996,Population growth (annual %),SP.POP.GROW,2.47479877886108
+South Sudan,SSD,1995,Population growth (annual %),SP.POP.GROW,3.04821010854634
+South Sudan,SSD,1994,Population growth (annual %),SP.POP.GROW,2.45442043280112
+South Sudan,SSD,1993,Population growth (annual %),SP.POP.GROW,1.22712587246739
+South Sudan,SSD,1992,Population growth (annual %),SP.POP.GROW,1.82787240123078
+South Sudan,SSD,1991,Population growth (annual %),SP.POP.GROW,2.41991379677985
+South Sudan,SSD,1990,Population growth (annual %),SP.POP.GROW,0.934530012321531
+South Sudan,SSD,1989,Population growth (annual %),SP.POP.GROW,-2.27396119985998
+South Sudan,SSD,1988,Population growth (annual %),SP.POP.GROW,-1.62600217467959
+South Sudan,SSD,1987,Population growth (annual %),SP.POP.GROW,1.52660983394726
+South Sudan,SSD,1986,Population growth (annual %),SP.POP.GROW,2.36593873726335
+South Sudan,SSD,1985,Population growth (annual %),SP.POP.GROW,2.2328713631936
+South Sudan,SSD,1984,Population growth (annual %),SP.POP.GROW,2.20748334556763
+South Sudan,SSD,1983,Population growth (annual %),SP.POP.GROW,2.34244835304619
+South Sudan,SSD,1982,Population growth (annual %),SP.POP.GROW,2.40299279130042
+South Sudan,SSD,1981,Population growth (annual %),SP.POP.GROW,2.40066830251778
+South Sudan,SSD,1980,Population growth (annual %),SP.POP.GROW,2.39534318616594
+South Sudan,SSD,1979,Population growth (annual %),SP.POP.GROW,2.39557894824001
+South Sudan,SSD,1978,Population growth (annual %),SP.POP.GROW,2.4027378645904
+South Sudan,SSD,1977,Population growth (annual %),SP.POP.GROW,2.39786036302012
+South Sudan,SSD,1976,Population growth (annual %),SP.POP.GROW,2.40046791617613
+South Sudan,SSD,1975,Population growth (annual %),SP.POP.GROW,2.41362733633241
+South Sudan,SSD,1974,Population growth (annual %),SP.POP.GROW,2.43018409591514
+South Sudan,SSD,1973,Population growth (annual %),SP.POP.GROW,2.21924343288522
+South Sudan,SSD,1972,Population growth (annual %),SP.POP.GROW,1.9794211054933
+South Sudan,SSD,1971,Population growth (annual %),SP.POP.GROW,1.61440634440532
+South Sudan,SSD,1970,Population growth (annual %),SP.POP.GROW,1.2196466164818
+South Sudan,SSD,1969,Population growth (annual %),SP.POP.GROW,1.22394409758838
+South Sudan,SSD,1968,Population growth (annual %),SP.POP.GROW,1.22672576193772
+South Sudan,SSD,1967,Population growth (annual %),SP.POP.GROW,1.14408930969707
+South Sudan,SSD,1966,Population growth (annual %),SP.POP.GROW,1.3172407489534
+South Sudan,SSD,1965,Population growth (annual %),SP.POP.GROW,1.76250241590552
+South Sudan,SSD,1964,Population growth (annual %),SP.POP.GROW,1.71313650894716
+South Sudan,SSD,1963,Population growth (annual %),SP.POP.GROW,1.45869524002131
+South Sudan,SSD,1962,Population growth (annual %),SP.POP.GROW,1.45821045823342
+South Sudan,SSD,1961,Population growth (annual %),SP.POP.GROW,1.407954752466
+South Sudan,SSD,2022,"Population, total",SP.POP.TOTL,10913164
+South Sudan,SSD,2021,"Population, total",SP.POP.TOTL,10748272
+South Sudan,SSD,2020,"Population, total",SP.POP.TOTL,10606227
+South Sudan,SSD,2019,"Population, total",SP.POP.TOTL,10447666
+South Sudan,SSD,2018,"Population, total",SP.POP.TOTL,10395329
+South Sudan,SSD,2017,"Population, total",SP.POP.TOTL,10658226
+South Sudan,SSD,2016,"Population, total",SP.POP.TOTL,11066105
+South Sudan,SSD,2015,"Population, total",SP.POP.TOTL,11194299
+South Sudan,SSD,2014,"Population, total",SP.POP.TOTL,11213284
+South Sudan,SSD,2013,"Population, total",SP.POP.TOTL,11106031
+South Sudan,SSD,2012,"Population, total",SP.POP.TOTL,10701604
+South Sudan,SSD,2011,"Population, total",SP.POP.TOTL,10243050
+South Sudan,SSD,2010,"Population, total",SP.POP.TOTL,9714419
+South Sudan,SSD,2009,"Population, total",SP.POP.TOTL,9229227
+South Sudan,SSD,2008,"Population, total",SP.POP.TOTL,8823888
+South Sudan,SSD,2007,"Population, total",SP.POP.TOTL,8417823
+South Sudan,SSD,2006,"Population, total",SP.POP.TOTL,8029517
+South Sudan,SSD,2005,"Population, total",SP.POP.TOTL,7662654
+South Sudan,SSD,2004,"Population, total",SP.POP.TOTL,7317118
+South Sudan,SSD,2003,"Population, total",SP.POP.TOTL,6992367
+South Sudan,SSD,2002,"Population, total",SP.POP.TOTL,6686100
+South Sudan,SSD,2001,"Population, total",SP.POP.TOTL,6394431
+South Sudan,SSD,2000,"Population, total",SP.POP.TOTL,6114440
+South Sudan,SSD,1999,"Population, total",SP.POP.TOTL,5850145
+South Sudan,SSD,1998,"Population, total",SP.POP.TOTL,5699436
+South Sudan,SSD,1997,"Population, total",SP.POP.TOTL,5589410
+South Sudan,SSD,1996,"Population, total",SP.POP.TOTL,5434894
+South Sudan,SSD,1995,"Population, total",SP.POP.TOTL,5302042
+South Sudan,SSD,1994,"Population, total",SP.POP.TOTL,5142863
+South Sudan,SSD,1993,"Population, total",SP.POP.TOTL,5018172
+South Sudan,SSD,1992,"Population, total",SP.POP.TOTL,4956969
+South Sudan,SSD,1991,"Population, total",SP.POP.TOTL,4867185
+South Sudan,SSD,1990,"Population, total",SP.POP.TOTL,4750817
+South Sudan,SSD,1989,"Population, total",SP.POP.TOTL,4706626
+South Sudan,SSD,1988,"Population, total",SP.POP.TOTL,4814879
+South Sudan,SSD,1987,"Population, total",SP.POP.TOTL,4893809
+South Sudan,SSD,1986,"Population, total",SP.POP.TOTL,4819667
+South Sudan,SSD,1985,"Population, total",SP.POP.TOTL,4706975
+South Sudan,SSD,1984,"Population, total",SP.POP.TOTL,4603039
+South Sudan,SSD,1983,"Population, total",SP.POP.TOTL,4502541
+South Sudan,SSD,1982,"Population, total",SP.POP.TOTL,4398297
+South Sudan,SSD,1981,"Population, total",SP.POP.TOTL,4293866
+South Sudan,SSD,1980,"Population, total",SP.POP.TOTL,4192012
+South Sudan,SSD,1979,"Population, total",SP.POP.TOTL,4092792
+South Sudan,SSD,1978,"Population, total",SP.POP.TOTL,3995911
+South Sudan,SSD,1977,"Population, total",SP.POP.TOTL,3901044
+South Sudan,SSD,1976,"Population, total",SP.POP.TOTL,3808615
+South Sudan,SSD,1975,"Population, total",SP.POP.TOTL,3718279
+South Sudan,SSD,1974,"Population, total",SP.POP.TOTL,3629608
+South Sudan,SSD,1973,"Population, total",SP.POP.TOTL,3542465
+South Sudan,SSD,1972,"Population, total",SP.POP.TOTL,3464715
+South Sudan,SSD,1971,"Population, total",SP.POP.TOTL,3396808
+South Sudan,SSD,1970,"Population, total",SP.POP.TOTL,3342410
+South Sudan,SSD,1969,"Population, total",SP.POP.TOTL,3301892
+South Sudan,SSD,1968,"Population, total",SP.POP.TOTL,3261725
+South Sudan,SSD,1967,"Population, total",SP.POP.TOTL,3221957
+South Sudan,SSD,1966,"Population, total",SP.POP.TOTL,3185305
+South Sudan,SSD,1965,"Population, total",SP.POP.TOTL,3143622
+South Sudan,SSD,1964,"Population, total",SP.POP.TOTL,3088701
+South Sudan,SSD,1963,"Population, total",SP.POP.TOTL,3036238
+South Sudan,SSD,1962,"Population, total",SP.POP.TOTL,2992270
+South Sudan,SSD,1961,"Population, total",SP.POP.TOTL,2948953
+South Sudan,SSD,1960,"Population, total",SP.POP.TOTL,2907724
+South Sudan,SSD,2022,Urban population growth (annual %),SP.URB.GROW,3.12789807623538
+South Sudan,SSD,2021,Urban population growth (annual %),SP.URB.GROW,2.87783190075882
+South Sudan,SSD,2020,Urban population growth (annual %),SP.URB.GROW,3.00264210991181
+South Sudan,SSD,2019,Urban population growth (annual %),SP.URB.GROW,1.93967992599927
+South Sudan,SSD,2018,Urban population growth (annual %),SP.URB.GROW,-1.11662166432884
+South Sudan,SSD,2017,Urban population growth (annual %),SP.URB.GROW,-2.43388693742046
+South Sudan,SSD,2016,Urban population growth (annual %),SP.URB.GROW,0.113281992844133
+South Sudan,SSD,2015,Urban population growth (annual %),SP.URB.GROW,1.03660546678671
+South Sudan,SSD,2014,Urban population growth (annual %),SP.URB.GROW,2.10034326249772
+South Sudan,SSD,2013,Urban population growth (annual %),SP.URB.GROW,4.79052774641657
+South Sudan,SSD,2012,Urban population growth (annual %),SP.URB.GROW,5.40012524868226
+South Sudan,SSD,2011,Urban population growth (annual %),SP.URB.GROW,6.2572787859913
+South Sudan,SSD,2010,Urban population growth (annual %),SP.URB.GROW,6.01785744914684
+South Sudan,SSD,2009,Urban population growth (annual %),SP.URB.GROW,5.31944462200473
+South Sudan,SSD,2008,Urban population growth (annual %),SP.URB.GROW,5.48313224803031
+South Sudan,SSD,2007,Urban population growth (annual %),SP.URB.GROW,5.48909382549184
+South Sudan,SSD,2006,Urban population growth (annual %),SP.URB.GROW,5.44894013679409
+South Sudan,SSD,2005,Urban population growth (annual %),SP.URB.GROW,5.38081269953823
+South Sudan,SSD,2004,Urban population growth (annual %),SP.URB.GROW,5.31816009327971
+South Sudan,SSD,2003,Urban population growth (annual %),SP.URB.GROW,5.25150003442859
+South Sudan,SSD,2002,Urban population growth (annual %),SP.URB.GROW,5.23290786061641
+South Sudan,SSD,2001,Urban population growth (annual %),SP.URB.GROW,5.25004412108781
+South Sudan,SSD,2000,Urban population growth (annual %),SP.URB.GROW,5.1972225048576
+South Sudan,SSD,1999,Urban population growth (annual %),SP.URB.GROW,3.38853546070265
+South Sudan,SSD,1998,Urban population growth (annual %),SP.URB.GROW,2.72771746372425
+South Sudan,SSD,1997,Urban population growth (annual %),SP.URB.GROW,3.58798026744702
+South Sudan,SSD,1996,Urban population growth (annual %),SP.URB.GROW,3.2529798202565
+South Sudan,SSD,1995,Urban population growth (annual %),SP.URB.GROW,3.83252417370896
+South Sudan,SSD,1994,Urban population growth (annual %),SP.URB.GROW,3.23837068842714
+South Sudan,SSD,1993,Urban population growth (annual %),SP.URB.GROW,5.90420536094772
+South Sudan,SSD,1992,Urban population growth (annual %),SP.URB.GROW,7.61150052013772
+South Sudan,SSD,1991,Urban population growth (annual %),SP.URB.GROW,8.25716640460156
+South Sudan,SSD,1990,Urban population growth (annual %),SP.URB.GROW,6.82153754513009
+South Sudan,SSD,1989,Urban population growth (annual %),SP.URB.GROW,3.65026927980166
+South Sudan,SSD,1988,Urban population growth (annual %),SP.URB.GROW,4.36493632491497
+South Sudan,SSD,1987,Urban population growth (annual %),SP.URB.GROW,7.55481572695531
+South Sudan,SSD,1986,Urban population growth (annual %),SP.URB.GROW,8.44497652588895
+South Sudan,SSD,1985,Urban population growth (annual %),SP.URB.GROW,8.33806706036393
+South Sudan,SSD,1984,Urban population growth (annual %),SP.URB.GROW,8.36443772516432
+South Sudan,SSD,1983,Urban population growth (annual %),SP.URB.GROW,4.79535698052093
+South Sudan,SSD,1982,Urban population growth (annual %),SP.URB.GROW,2.27357248318762
+South Sudan,SSD,1981,Urban population growth (annual %),SP.URB.GROW,2.27128970820654
+South Sudan,SSD,1980,Urban population growth (annual %),SP.URB.GROW,2.25474456432455
+South Sudan,SSD,1979,Urban population growth (annual %),SP.URB.GROW,2.26661327650626
+South Sudan,SSD,1978,Urban population growth (annual %),SP.URB.GROW,2.27421588663238
+South Sudan,SSD,1977,Urban population growth (annual %),SP.URB.GROW,2.25753073865779
+South Sudan,SSD,1976,Urban population growth (annual %),SP.URB.GROW,2.27203582530919
+South Sudan,SSD,1975,Urban population growth (annual %),SP.URB.GROW,2.28570867089548
+South Sudan,SSD,1974,Urban population growth (annual %),SP.URB.GROW,2.29025199522983
+South Sudan,SSD,1973,Urban population growth (annual %),SP.URB.GROW,2.09153311332202
+South Sudan,SSD,1972,Urban population growth (annual %),SP.URB.GROW,1.84008507172675
+South Sudan,SSD,1971,Urban population growth (annual %),SP.URB.GROW,1.48706867957683
+South Sudan,SSD,1970,Urban population growth (annual %),SP.URB.GROW,1.0805001993341
+South Sudan,SSD,1969,Urban population growth (annual %),SP.URB.GROW,1.09690700093921
+South Sudan,SSD,1968,Urban population growth (annual %),SP.URB.GROW,1.0997614324412
+South Sudan,SSD,1967,Urban population growth (annual %),SP.URB.GROW,1.00558702328217
+South Sudan,SSD,1966,Urban population growth (annual %),SP.URB.GROW,1.1906245438876
+South Sudan,SSD,1965,Urban population growth (annual %),SP.URB.GROW,1.62450985610552
+South Sudan,SSD,1964,Urban population growth (annual %),SP.URB.GROW,1.57533767417658
+South Sudan,SSD,1963,Urban population growth (annual %),SP.URB.GROW,1.33245511800768
+South Sudan,SSD,1962,Urban population growth (annual %),SP.URB.GROW,1.3209477901002
+South Sudan,SSD,1961,Urban population growth (annual %),SP.URB.GROW,1.28200373835311
+South Sudan,SSD,2022,Urban population,SP.URB.TOTL,2274958
+South Sudan,SSD,2021,Urban population,SP.URB.TOTL,2204901
+South Sudan,SSD,2020,Urban population,SP.URB.TOTL,2142352
+South Sudan,SSD,2019,Urban population,SP.URB.TOTL,2078981
+South Sudan,SSD,2018,Urban population,SP.URB.TOTL,2039044
+South Sudan,SSD,2017,Urban population,SP.URB.TOTL,2061940
+South Sudan,SSD,2016,Urban population,SP.URB.TOTL,2112741
+South Sudan,SSD,2015,Urban population,SP.URB.TOTL,2110349
+South Sudan,SSD,2014,Urban population,SP.URB.TOTL,2088586
+South Sudan,SSD,2013,Urban population,SP.URB.TOTL,2045176
+South Sudan,SSD,2012,Urban population,SP.URB.TOTL,1949511
+South Sudan,SSD,2011,Urban population,SP.URB.TOTL,1847027
+South Sudan,SSD,2010,Urban population,SP.URB.TOTL,1734995
+South Sudan,SSD,2009,Urban population,SP.URB.TOTL,1633665
+South Sudan,SSD,2008,Urban population,SP.URB.TOTL,1549034
+South Sudan,SSD,2007,Urban population,SP.URB.TOTL,1466385
+South Sudan,SSD,2006,Urban population,SP.URB.TOTL,1388063
+South Sudan,SSD,2005,Urban population,SP.URB.TOTL,1314452
+South Sudan,SSD,2004,Urban population,SP.URB.TOTL,1245593
+South Sudan,SSD,2003,Urban population,SP.URB.TOTL,1181081
+South Sudan,SSD,2002,Urban population,SP.URB.TOTL,1120657
+South Sudan,SSD,2001,Urban population,SP.URB.TOTL,1063522
+South Sudan,SSD,2000,Urban population,SP.URB.TOTL,1009127
+South Sudan,SSD,1999,Urban population,SP.URB.TOTL,958020
+South Sudan,SSD,1998,Urban population,SP.URB.TOTL,926101
+South Sudan,SSD,1997,Urban population,SP.URB.TOTL,901181
+South Sudan,SSD,1996,Urban population,SP.URB.TOTL,869420
+South Sudan,SSD,1995,Urban population,SP.URB.TOTL,841593
+South Sudan,SSD,1994,Urban population,SP.URB.TOTL,809949
+South Sudan,SSD,1993,Urban population,SP.URB.TOTL,784140
+South Sudan,SSD,1992,Urban population,SP.URB.TOTL,739183
+South Sudan,SSD,1991,Urban population,SP.URB.TOTL,685008
+South Sudan,SSD,1990,Urban population,SP.URB.TOTL,630718
+South Sudan,SSD,1989,Urban population,SP.URB.TOTL,589128
+South Sudan,SSD,1988,Urban population,SP.URB.TOTL,568011
+South Sudan,SSD,1987,Urban population,SP.URB.TOTL,543751
+South Sudan,SSD,1986,Urban population,SP.URB.TOTL,504185
+South Sudan,SSD,1985,Urban population,SP.URB.TOTL,463355
+South Sudan,SSD,1984,Urban population,SP.URB.TOTL,426287
+South Sudan,SSD,1983,Urban population,SP.URB.TOTL,392081
+South Sudan,SSD,1982,Urban population,SP.URB.TOTL,373723
+South Sudan,SSD,1981,Urban population,SP.URB.TOTL,365322
+South Sudan,SSD,1980,Urban population,SP.URB.TOTL,357118
+South Sudan,SSD,1979,Urban population,SP.URB.TOTL,349156
+South Sudan,SSD,1978,Urban population,SP.URB.TOTL,341331
+South Sudan,SSD,1977,Urban population,SP.URB.TOTL,333656
+South Sudan,SSD,1976,Urban population,SP.URB.TOTL,326208
+South Sudan,SSD,1975,Urban population,SP.URB.TOTL,318880
+South Sudan,SSD,1974,Urban population,SP.URB.TOTL,311674
+South Sudan,SSD,1973,Urban population,SP.URB.TOTL,304617
+South Sudan,SSD,1972,Urban population,SP.URB.TOTL,298312
+South Sudan,SSD,1971,Urban population,SP.URB.TOTL,292873
+South Sudan,SSD,1970,Urban population,SP.URB.TOTL,288550
+South Sudan,SSD,1969,Urban population,SP.URB.TOTL,285449
+South Sudan,SSD,1968,Urban population,SP.URB.TOTL,282335
+South Sudan,SSD,1967,Urban population,SP.URB.TOTL,279247
+South Sudan,SSD,1966,Urban population,SP.URB.TOTL,276453
+South Sudan,SSD,1965,Urban population,SP.URB.TOTL,273181
+South Sudan,SSD,1964,Urban population,SP.URB.TOTL,268779
+South Sudan,SSD,1963,Urban population,SP.URB.TOTL,264578
+South Sudan,SSD,1962,Urban population,SP.URB.TOTL,261076
+South Sudan,SSD,1961,Urban population,SP.URB.TOTL,257650
+South Sudan,SSD,1960,Urban population,SP.URB.TOTL,254368
+South Sudan,SSD,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,20.846
+South Sudan,SSD,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,20.514
+South Sudan,SSD,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,20.199
+South Sudan,SSD,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.899
+South Sudan,SSD,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.615
+South Sudan,SSD,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.346
+South Sudan,SSD,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.092
+South Sudan,SSD,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.852
+South Sudan,SSD,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.626
+South Sudan,SSD,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.415
+South Sudan,SSD,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.217
+South Sudan,SSD,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.032
+South Sudan,SSD,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.86
+South Sudan,SSD,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.701
+South Sudan,SSD,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.555
+South Sudan,SSD,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.42
+South Sudan,SSD,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.287
+South Sudan,SSD,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.154
+South Sudan,SSD,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.023
+South Sudan,SSD,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.891
+South Sudan,SSD,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.761
+South Sudan,SSD,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.632
+South Sudan,SSD,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.504
+South Sudan,SSD,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.376
+South Sudan,SSD,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.249
+South Sudan,SSD,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.123
+South Sudan,SSD,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,15.997
+South Sudan,SSD,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,15.873
+South Sudan,SSD,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,15.749
+South Sudan,SSD,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,15.626
+South Sudan,SSD,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,14.912
+South Sudan,SSD,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,14.074
+South Sudan,SSD,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,13.276
+South Sudan,SSD,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,12.517
+South Sudan,SSD,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,11.797
+South Sudan,SSD,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,11.111
+South Sudan,SSD,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,10.461
+South Sudan,SSD,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,9.844
+South Sudan,SSD,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,9.261
+South Sudan,SSD,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.708
+South Sudan,SSD,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.497
+South Sudan,SSD,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.508
+South Sudan,SSD,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.519
+South Sudan,SSD,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.531
+South Sudan,SSD,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.542
+South Sudan,SSD,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.553
+South Sudan,SSD,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.565
+South Sudan,SSD,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.576
+South Sudan,SSD,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.587
+South Sudan,SSD,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.599
+South Sudan,SSD,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.61
+South Sudan,SSD,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.622
+South Sudan,SSD,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.633
+South Sudan,SSD,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.645
+South Sudan,SSD,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.656
+South Sudan,SSD,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.667
+South Sudan,SSD,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.679
+South Sudan,SSD,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.69
+South Sudan,SSD,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.702
+South Sudan,SSD,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.714
+South Sudan,SSD,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.725
+South Sudan,SSD,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.737
+South Sudan,SSD,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,8.748
