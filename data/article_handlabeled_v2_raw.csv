@@ -1,4 +1,4 @@
-Article index,Conflict,Location correct,keep location,Unity level,South Sudan / Liberation movement Conflict,Additional Notes
+Article index,Conflict,Location correct,County level,Unity level,South Sudan / Liberation movement Conflict,Additional Notes
 0,0,yes,no,no,no,"This article is about a celebration of South Sudan independence and the relation between ""North"" and South."
 1,0,yes,no,no,no,This article is about a celebration of South Sudan independence and that they're at war with Khartoum
 2,0,no,no,no,no,"Head of Kenyan Community congratulates South Sudan independence, no location mentioned"
@@ -7,7 +7,7 @@ Article index,Conflict,Location correct,keep location,Unity level,South Sudan / 
 5,2,no,yes,no,yes,"Rebel leader Gatluak killed in Koch county, began localised rebellion agianst SPLA"
 6,0,yes,no,no,no,Oil news
 7,2,no,yes,no,yes,"Rebel leader Gatluak killed in Koch county, began localised rebellion agianst SPLA"
-8,0,no,no,no,no,Rebels blamed for bombs which killed 5
+8,2,Unity,no,yes,yes,Rebels blamed for bombs which killed 5
 9,0,No info,no,yes,no,Tree planting campaign
 10,0,No info,no,yes,no,Stealing cows
 11,0,yes,no,no,no,"Catlle raid, happening "
@@ -15,7 +15,7 @@ Article index,Conflict,Location correct,keep location,Unity level,South Sudan / 
 13,0,No info,no,yes,no,Strategic development team from Juba
 14,1,No info,no,yes,no,Very broadly mentioned challenges faced by South Sudan government
 15,0,Various regions,no,yes,no,Discussing the focus on the aid that South Sudan (in general) receives
-16,1,Koch,yes,yes,yes,SSLM army issuing UN to leave Unity Sate within a week
+16,1,Koch,no,yes,yes,SSLM army issuing UN to leave Unity Sate within a week
 17,0,Unity,no,yes,no,Relationship issues between North South in Unity state
 18,1,Unity,no,yes,no,Arabs of thhe north attacking Unity states
 19,2,Yida,no,no,yes,Escalating tensions between North and South Sudan and SPLM-North. (Is this the same liberation movement?) -- YES
