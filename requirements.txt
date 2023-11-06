@@ -4,3 +4,6 @@ geopandas == 0.13.2
 matplotlib == 3.7.2
 seaborn == 0.12.2
 statsmodels == 0.14.0
+pycausalimpact == 0.1.1
+spacy == 3.7.0
+
