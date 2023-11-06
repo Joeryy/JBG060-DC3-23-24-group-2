@@ -45,5 +45,6 @@ python -m spacy download en_core_web_sm
 If you encounter any issues while running the notebooks, try the following:
 - check that you have all the necessary libraries installed and the correct versions of them
 - check your Python version. In principle, the code should work with any Python versions higher than 3.9.16. If this is not the case, create a virtual environment that uses Python 3.9.16.
+- check that the models folder exists (for placeholder _blank_ was placed in the folder)
 - delete all contents in models folder
 - issues with installing spacy go to: https://spacy.io/usage
